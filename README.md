@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chrisrdouglas
-Recent grad looking for work as a SWE
+- Recent grad looking for work as a SWE
 - 📫 How to reach me: https://www.linkedin.com/in/crdouglas94/
 
 <!---
