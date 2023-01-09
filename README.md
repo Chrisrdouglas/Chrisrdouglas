@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Chrisrdouglas
-- Recent grad looking for work as a SWE
 - 📫 How to reach me: https://www.linkedin.com/in/crdouglas94/
 - 🌐 Learn More about what I can do: https://www.chrisrdouglas.com/
 
